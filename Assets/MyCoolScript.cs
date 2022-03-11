@@ -8,6 +8,7 @@ public class MyCoolScript : MonoBehaviour
     void Start()
     {
         //Change some behaviour on player controller
+        //Ny kommentar
     }
 
     // Update is called once per frame
