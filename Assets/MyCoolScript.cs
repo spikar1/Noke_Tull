@@ -13,6 +13,6 @@ public class MyCoolScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        int i = 10;
+        int i = 12;
     }
 }
