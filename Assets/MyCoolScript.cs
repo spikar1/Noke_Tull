@@ -14,5 +14,6 @@ public class MyCoolScript : MonoBehaviour
     void Update()
     {
         int i = 12;
+        i = 9;
     }
 }
